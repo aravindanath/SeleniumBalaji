@@ -1,0 +1,44 @@
+Browser launch
+Locators
+id -- done
+classname -- done
+name -- done
+linkText -- done
+partialLinkText -- done
+tagName -- done
+xpath
+//tagname[@attribute='value']
+//tagname[contains(@attribute,'value')]
+//tagname[starts-with(@attribute,'value')]
+//tagname[ends-with(@attribute,'value')]
+//tagname[@attribute1='value' and @attribute2='value']
+//tagname[@attribute1='value' or @attribute2='value']
+//following-sibling
+//preceding-sibling
+//following
+//preceding
+
+css
+
+
+
+
+
+
+alerts
+frames
+windows
+dropdown
+dragand drop
+mosue hover
+radio button
+checkbox
+autosuggest
+calender
+Webtables
+links
+SSL certificates
+headless
+notifications
+
+TestNG Cucumber
